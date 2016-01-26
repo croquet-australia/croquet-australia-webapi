@@ -1,0 +1,8 @@
+artifacts/
+bin/
+obj/
+packages/
+
+*.feature.cs
+*.suo
+*.user

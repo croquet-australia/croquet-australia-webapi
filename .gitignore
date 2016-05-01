@@ -6,3 +6,5 @@ packages/
 *.feature.cs
 *.suo
 *.user
+
+AppSettings.config
